@@ -2,3 +2,7 @@ body {
 	background-color: #efefef;
 	font-size: 2em;
 }
+
+h1 {
+	text-decoration: underline;
+}
